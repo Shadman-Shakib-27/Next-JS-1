@@ -5,3 +5,6 @@
 5) Route Grouping --> See (withLayout) Folder Details.
 6) Navigation and Link --> See Navbar.js Details.
 7) Built In CSS Module --> See About/Contact.module.css File Details.
+8) "use client";
+// Use Client Client Side Rendering Er Jonne Specific Kono Part Er Jonne..
+See Counter.js
