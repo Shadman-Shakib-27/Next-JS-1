@@ -1,10 +1,19 @@
 1) Routing --> First Open A Folder in (app) Then write page.js --> name is as follows page.js
+
 2) Nested Routing --> See News.js file.
+
 3) Dynamic Routing --> See [ProductID] Folder Details.
+
 4) Catch All Route --> See [...slug] Folder Details.
+
 5) Route Grouping --> See (withLayout) Folder Details.
+
 6) Navigation and Link --> See Navbar.js Details.
+
 7) Built In CSS Module --> See About/Contact.module.css File Details.
+
 8) "use client";
 // Use Client Client Side Rendering Er Jonne Specific Kono Part Er Jonne..
 See Counter.js
+
+9) loading.js for Built in Loading and not-found.js for Built in 404 Page. Name Convention Must Be Same..
